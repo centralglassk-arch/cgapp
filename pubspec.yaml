@@ -1,0 +1,16 @@
+name: cgapp
+description: A new Flutter project
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.10.6
+  firebase_auth: ^3.3.6
+  shared:
+    path: ../shared  # Ajuste o caminho conforme necessário
+  auto_route: ^4.4.0
+  cloud_firestore: ^3.1.5
+  mobile_scanner: ^0.0.1
+
+flutter:
+  uses-material-design: true

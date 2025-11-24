@@ -499,7 +499,7 @@ packages:
   shared:
     dependency: "direct main"
     description:
-      path: "../shared"
+      path: shared
       relative: true
     source: path
     version: "0.0.0"

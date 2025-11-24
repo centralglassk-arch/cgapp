@@ -19,7 +19,7 @@ dependencies:
   mobile_scanner: ^3.2.0
 
   shared:
-    path: shared
+    path: ../shared
 
 dev_dependencies:
   flutter_test:

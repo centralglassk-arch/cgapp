@@ -1,0 +1,50 @@
+Set-Content -Path "C:\src\cgapp\android\app\google-services.json" -Encoding utf8 @"
+{
+  "project_info": {
+    "project_number": "160465053215",
+    "project_id": "centralglassapp-e8f2e",
+    "storage_bucket": "centralglassapp-e8f2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160465053215:android:5773452786d2c0b7e2572a",
+        "android_client_info": {
+          "package_name": "com.centralglass.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXr7koJPZTqEDBbqD5CE7j4zCNRlFT2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160465053215:android:24320d9dee610aa5e2572a",
+        "android_client_info": {
+          "package_name": "com.example.central_glass_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXr7koJPZTqEDBbqD5CE7j4zCNRlFT2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+"@
